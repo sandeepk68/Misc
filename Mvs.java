@@ -6,8 +6,8 @@ import java.util.Random;
 import java.time.LocalDateTime;
 
 public class Mvs {
-    public static final int FIVE_MINUTES = 300_000;
-    public static final int SET_TIME_HOURS = 17;
+    public static final int FIVE_MINUTES = 300_000; // 1000 x 60 x 5
+    public static final int SET_TIME_HOURS = 17; // Exit the program at 5PM
     public static final int MAX_Y = 400;
     public static final int MAX_X = 400;
 
