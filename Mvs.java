@@ -1,6 +1,9 @@
-// Mouse Jiggler in Java
+/* Mouse Jiggler in Java
+// Copy the code into a file and save it as Mvs.java
+// open cmd/terminal and type: javac Mvs.java
+// run the generated class file with the command: java Mvs
 // Ctrl+c to exit the program
-
+*/
 import java.awt.Robot;
 import java.util.Random;
 import java.time.LocalDateTime;
